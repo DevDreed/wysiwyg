@@ -1,0 +1,43 @@
+.even{
+  background-color: lightyellow;
+}
+
+.odd {
+  background-color: lightblue;
+}
+
+.dotted-border{
+  border: 1px dotted;
+}
+
+#bioinput {
+  width: calc(100% - 100px);
+  margin: 50px;
+}
+
+.person__container {
+  width: 30%;
+  float:left;
+  height: 100%;
+  min-height: 450px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.person__container img {
+  height: 150px;
+  text-align: center;
+}
+
+.bioimage, .biotitle {
+  text-align: center;
+}
+
+.biotitle{
+  font-weight: bold;
+  font-size: 2.5em;
+}
+
+.bio {
+  font-size: 1.6em;
+}
